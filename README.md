@@ -4,30 +4,32 @@
 This project explores the Netflix dataset to uncover patterns in content production, release trends, genre distribution, and other factors influencing audience engagement.
 Through data cleaning, exploratory analysis, and visualization, the project aims to identify opportunities for growth and areas needing attention. 
 
+---
 
 ### 📂 Dataset Information
 
-#### Records: 7787
+##### Records: 7787
 
-#### Columns:
+##### Columns:
 
-title — Name of the movie/TV show 
+- title — Name of the movie/TV show 
 
-type — Movie or TV Show
+- type — Movie or TV Show
 
-director, cast — People involved in creation
+- director, cast — People involved in creation
 
-country — Country of origin
+- country — Country of origin
 
-date_added — Date added to Netflix
+- date_added — Date added to Netflix
 
-release_year — Original release year
+- release_year — Original release year
 
-rating — Maturity rating (e.g., PG, R)
+- rating — Maturity rating (e.g., PG, R)
 
-duration — Length of movie or number of seasons
+- duration — Length of movie or number of seasons
 
-listed_in — Genres
+- listed_in — Genres
 
-description — Short summary
+- description — Short summary
+
 
