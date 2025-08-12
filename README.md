@@ -8,9 +8,9 @@ Through data cleaning, exploratory analysis, and visualization, the project aims
 
 ### 📂 Dataset Information
 
-##### Records: 7787
+#### Records: 7787
 
-##### Columns:
+#### Columns:
 
 - title — Name of the movie/TV show 
 
@@ -31,5 +31,38 @@ Through data cleaning, exploratory analysis, and visualization, the project aims
 - listed_in — Genres
 
 - description — Short summary
+
+---
+
+## Project Workflow
+
+- Data Cleaning
+
+- Exploratory Data Analysis (EDA)
+
+- Visualization
+
+- Model Implementation
+
+
+--- 
+
+## 🚀 Tools & Libraries
+
+- Python
+
+- Pandas
+
+- Numpy
+
+- Matplotlib
+
+- Seaborn
+
+- Scikit-learn
+
+- Jupyter Notebook
+  
+
 
 
